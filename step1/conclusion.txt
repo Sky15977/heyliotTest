@@ -1,8 +1,24 @@
--heure non exacte(pas de js ni php)
--rond du svg trop petit
--couleur trop foncé
--trop d'éspacement
--ne voit pas comment faire les |
--espace non pris en compte au début du p
+Bonjour,
 
-2h avec pas mal de temp sur de la recherche d'information
+Suite à l'exercice de la reproduction de la maquette, je vais rédiger 
+ce petit laius pour que vous puissiez corriger.
+
+Pour le premier point, la maquette est fonctionnelle à l'arrivée malgré 
+quelques détails manquants. Le projet s'est relativement bien passé, et
+la difficulté était assez simple. Pour ma part, le manque de connaissance
+s'est fait ressentir. J'ai donc décidé de pousser le travail sur 2h, ce
+qui m'a permis de pouvoir suivre plus en détail le cours d'OpenClassrooms
+et d'être satisfait du rendu. J'ai essentiellement rencontré des difficultés
+sur la structure du code HTML avec les balises div, difficulté sur laquelle
+j'ai dû passer 1h.
+
+Voici pour moi ce qu'il reste à faire :
+
+    Le fond du SVG est trop petit.
+    Il y a trop d'espace entre les notifications.
+    L'espace au début du paragraphe n'est pas pris en compte.
+    Je ne vois pas comment faire les "|" (barres verticales).
+
+Je ne pense pas que ce soit compliqué à coder, mais cela nécessite tout
+de même un travail de recherche. Je pense donc estimer ça à 1h, sans parler
+des tirets liant les icônes qui me semble être un problème plus avancer.

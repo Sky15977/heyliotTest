@@ -39,3 +39,16 @@ body {
     text-align: left;
     background-color: pink;
 }
+
+.icon1,
+.icon2,
+.icon3 {
+    border-radius: 25px;
+
+}
+
+.box,
+.notif,
+.ram {
+    border-radius: 5px;
+}

@@ -7,17 +7,31 @@ body {
     background-color: white;
 }
 
-.notif {
+.icon-contain {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: -30px;
+}
+
+.icon-contain svg {
+    margin-right: 20px;
+}
+
+.notif,
+.icon1 {
     text-align: left;
     background-color: yellow;
 }
 
-.box {
+.box,
+.icon2 {
     text-align: left;
     background-color: blue;
 }
 
-.ram {
+.ram,
+.icon3 {
     text-align: left;
     background-color: pink;
 }

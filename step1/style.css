@@ -1,0 +1,23 @@
+* {
+    font-size: 30px;
+    font-family: Arial;
+}
+
+body {
+    background-color: white;
+}
+
+.notif {
+    text-align: left;
+    background-color: yellow;
+}
+
+.box {
+    text-align: left;
+    background-color: blue;
+}
+
+.ram {
+    text-align: left;
+    background-color: pink;
+}

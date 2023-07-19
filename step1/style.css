@@ -25,13 +25,13 @@ body {
 .notif,
 .icon1 {
     text-align: left;
-    background-color: yellow;
+    background-color: #FFFF62;
 }
 
 .box,
 .icon2 {
     text-align: left;
-    background-color: blue;
+    background-color: #87CEEB;
 }
 
 .ram,

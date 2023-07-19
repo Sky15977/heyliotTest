@@ -1,0 +1,8 @@
+-heure non exacte(pas de js ni php)
+-rond du svg trop petit
+-couleur trop foncé
+-trop d'éspacement
+-ne voit pas comment faire les |
+-espace non pris en compte au début du p
+
+2h avec pas mal de temp sur de la recherche d'information

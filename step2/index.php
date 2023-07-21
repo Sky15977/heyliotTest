@@ -18,7 +18,8 @@
         foreach ($breeds_data as $breed) {
             $breed_name = $breed['name'];
             $breed_id = $breed['id'];
-            echo "<li><a href=>$breed_name</li>";
+            echo "<li><a href='breed.php'>$breed_name</a></li>";
+
         }
         echo "</ul>";
     } else

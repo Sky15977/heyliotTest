@@ -8,17 +8,21 @@
 <body>
     <?php
     $api_key = 'YOUR_API_KEY';
-    $api_url = "https://api.thecatapi.com/v1/images/search?api_key=$api_key";
-    $response = file_get_contents($api_url);
-    $data = json_decode($response, true);
+    $breeds_api_url = "https://api.thecatapi.com/v1/breeds";
+    $breeds_response = file_get_contents($breeds_api_url);
+    $breeds_data = json_decode($breeds_response, true);
 
-    //list breed in tab for display after
-    if (is_array($data) && count($data) > 0) {
-        $image_url = $data[0]['url'];
-        echo "<img src='$image_url'>";
-    } else {
-        echo "Error img cat";
-    }
+    if (is_array($breeds_data) && count($breeds_data) > 0) {
+        echo "<h1>List of Cat Breeds</h1>";
+        echo "<ul>";
+        foreach ($breeds_data as $breed) {
+            $breed_name = $breed['name'];
+            $breed_id = $breed['id'];
+            echo "<li><a href=>$breed_name</li>";
+        }
+        echo "</ul>";
+    } else
+        echo "<p>Error breeds not found.</p>";
     ?>
 </body>
 </html>

@@ -1,0 +1,28 @@
+Bonjour,
+
+Le projet consistait à créer un site web fonctionnel présentant une liste de races
+de chats, avec la possibilité de cliquer sur chaque race pour accéder à une nouvelle
+page PHP affichant des photos de la race sélectionnée. Le développement du site a
+été réalisé en utilisant le framework Symfony et la programmation en PHP.
+
+En raison d'une incompréhension initiale et dû fait que je n'ai des connaissance
+que minime en html, css, le développement a été lancé avec la création d'un site
+en HTML avant de décider d'utiliser Symfony et PHP pour une meilleure gestion du
+projet. La complexité du système d'API a posé des problèmes, ce qui a exigé de
+nombreuses recherches pour obtenir une compréhension complète de son fonctionnement.
+Pendant le développement, il m'a manqué certaines connaissances spécifiques en PHP
+et dans l'utilisation des API avec Symfony, ce qui a entraîné un processus d'essais
+et d'erreurs assez long. Malgré cela, j'ai pu mené à bien les 2 premières missions
+grâce à une persévérance soutenue et un apprentissage constant des bases de l'API
+et de PHP.
+En raison des difficultés rencontrées et des recherches approfondies nécessaires
+pour surmonter les obstacles, il est difficile d'estimer le temps exact passé sur
+le projet. Cependant, il est sûr de dire que le développement a pris plus de temps
+que prévu initialement.
+
+En dépit des difficultés rencontrées et du temps plus long que prévu pour achever
+le projet, je suis globalement satisfait du résultat final. Le projet m'a permis
+d'acquérir des bases solides en ce qui concerne l'utilisation des API externes et
+la programmation en PHP avec Symfony. Je considère cette expérience comme une
+opportunité d'apprentissage précieuse qui me sera bénéfique dans mes futurs projets
+de développement web. Je vous remercie donc de cette occasion que vous m'avez offerte.
